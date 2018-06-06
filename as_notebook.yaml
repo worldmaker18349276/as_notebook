@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Name: As Notebook
+Link: README.md
+Description: Edit py as notebook
+Main: main.js
+Compatibility: 4.x, 5.x
